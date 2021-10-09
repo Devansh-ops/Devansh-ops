@@ -21,11 +21,9 @@
   <a href="https://www.instagram.com/devv.ansh/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
 </p>
 
-## Statistics
+## :trophy: My Github Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Devansh-ops&show_icons=true&theme=tokyonight&count_private=true&hide=issues)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-ops&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Devansh-ops&show_icons=true&theme=tokyonight&count_private=true&hide=issues) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-ops&theme=tokyonight)
 
 <!--
 **Devansh-ops/Devansh-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
