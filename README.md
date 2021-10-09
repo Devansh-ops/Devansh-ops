@@ -1,7 +1,29 @@
 ## Hi there 👋 I'm [Devansh]() 😀
-![visitor](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=Devansh-ops.Devansh-ops)
 [![Github](https://img.shields.io/github/followers/Devansh-ops?label=Followers&logo=Github)](https://github.com/Devansh-ops)
 
+## 🎓 I'm a CS student at Vellore Institute of Technology
+
+- 🔭 I’m currently developing a Whatsapp bot with JS.
+- 🌱 I’m currently learning CP. 
+- 👯 I’m looking to collaborate with anyone on any project.
+- 💬 Ask me about anything
+- ⚡ Fun fact: I love playing chess and basketball.
+
+## :email: Find me on:
+
+<p align="center">
+ <!--
+ <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ -->
+ <a href="https://www.linkedin.com/in/devansh-sehgal-52248995/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:devanshsehgal02@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://www.instagram.com/devv.ansh/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+</p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Devansh-ops&show_icons=true&theme=tokyonight&count_private=true&hide=issues)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Devansh-ops/Devansh-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
