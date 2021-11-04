@@ -4,8 +4,8 @@
 
 ## 🎓 I'm a CS student at Vellore Institute of Technology
 
-- 🔭 I’m currently developing a Whatsapp bot with JS.
-- 🌱 I’m currently learning CP. 
+- 🔭 I’m currently creating a website for Sigma Xi VIT
+- 🌱 I’m currently learning ML. 
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love playing chess and basketball.
