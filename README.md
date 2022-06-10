@@ -4,7 +4,7 @@
 
 ## 🎓 I'm a CS student at Vellore Institute of Technology
 
-- 🔭 I’m currently creating a website for Sigma Xi VIT
+- 🔭 I’m currently working as an Android Developer
 - 🌱 I’m currently learning ML. 
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything
